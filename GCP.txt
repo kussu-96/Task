@@ -2,5 +2,8 @@ welcome to GCP
 GIT
 Bitbucket
 Artifactory
-regards
+java
+python
+regards,
 thanks
+
