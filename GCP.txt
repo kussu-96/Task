@@ -2,3 +2,4 @@ welcome to GCP
 GIT
 Bitbucket
 Artifactory
+regards
